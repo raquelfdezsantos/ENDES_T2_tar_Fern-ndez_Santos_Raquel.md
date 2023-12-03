@@ -40,8 +40,8 @@ Para cada uno de los siguientes pasos, tomar una captura de pantalla de la termi
 
 ## Subtarea 2: Comparación de dos IDEs o editores de texto: 3 puntos
 
-##### Recomendación: Es buena costumbre, además de guardar periódicamente nuestro archivo a medida que trabajamos, actualizar nuestro repositorio cada vez que se haga un cambio relevante en el código. En este caso, aun tratándose de un archivo de texto, podemos hacer varios commits que reflejen el avance de la tarea.
-##### Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis hacer los que creáis oportunos. ###
+> Recomendación: Es buena costumbre, además de guardar periódicamente nuestro archivo a medida que trabajamos, actualizar nuestro repositorio cada vez que se haga un cambio relevante en el código. En este caso, aun tratándose de un archivo de texto, podemos hacer varios commits que reflejen el avance de la tarea.
+> Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis hacer los que creáis oportunos. ###
 
 ### Elige dos IDEs o editores de texto. Realiza una comparación de estos atendiendo a:
 
@@ -94,6 +94,7 @@ Además de los complementos, también permite a los usuarios personalizar la apa
 
 
 **•	Otros aspectos**
+
 _VS Code:_ tiene una gran comunidad activa, lo que significa que siempre hay nuevas extensiones y actualizaciones disponibles. Es de código abierto y está desarrollado por Microsoft.
 _Sublime Text:_ no es de código abierto, es necesaria una licencia de uso, pero cuenta con una gran comunidad de desarrolladores y una amplia variedad de extensiones desarrolladas por la comunidad.
 
