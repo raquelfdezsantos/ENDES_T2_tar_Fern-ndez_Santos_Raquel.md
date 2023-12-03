@@ -99,6 +99,7 @@ Además de los complementos, también permite a los usuarios personalizar la apa
 
 _VS Code:_ tiene una gran comunidad activa, lo que significa que siempre hay nuevas extensiones y actualizaciones disponibles. Es de código abierto y está desarrollado por Microsoft.
 
+
 _Sublime Text:_ no es de código abierto, es necesaria una licencia de uso, pero cuenta con una gran comunidad de desarrolladores y una amplia variedad de extensiones desarrolladas por la comunidad.
 
 
