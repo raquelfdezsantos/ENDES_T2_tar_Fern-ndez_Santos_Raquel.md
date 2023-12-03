@@ -31,9 +31,21 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 > Voy a ir señalando con flechas en las capturas de pantalla cada paso del enunciado.
  
 
- 
+![1](https://github.com/raquelfdezsantos/ENDES_T2_tar_Fern-ndez_Santos_Raquel.md/assets/148489817/1c6f3e00-903a-413a-a6f9-294b6c25c6fa)
+
 
  
+![2](https://github.com/raquelfdezsantos/ENDES_T2_tar_Fern-ndez_Santos_Raquel.md/assets/148489817/82a135a0-c8cf-43b4-8de8-abc476cb70ea)
+
+
+
+![3](https://github.com/raquelfdezsantos/ENDES_T2_tar_Fern-ndez_Santos_Raquel.md/assets/148489817/1cf4d6e4-0aff-4a1a-80c3-224706707eca)
+
+
+
+![4](https://github.com/raquelfdezsantos/ENDES_T2_tar_Fern-ndez_Santos_Raquel.md/assets/148489817/012ca7ac-181a-44ea-96bb-4310b92c9bd3)
+
+
  
 
 > https://github.com/raquelfdezsantos/ENDES_T2_tarea/
