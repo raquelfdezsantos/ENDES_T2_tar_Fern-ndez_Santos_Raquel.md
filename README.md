@@ -5,6 +5,8 @@
 ### Esta dimensión opcional de la tarea no resta si no se realiza, pero os animo a que lo intentéis. La parte opcional consiste en la entrega de los archivos en formato Markdown. Markdown no entra como parte del temario en sí, pero os encontraréis con ello constantemente en internet y, desde luego, en GitHub; gran parte de la documentación está escrita en archivos .md. Tiene gran utilidad para dar un formato de forma rápida y sencilla desde cualquier editor de texto. Además, se puede editar y visualizar directamente en GitHub desde el navegador. La guía de instalación y uso de Git que tenéis disponible en el repositorio de la asignatura está en formato .md. Podéis descargar la guía, editarla y visualizarla con VSCode, por ejemplo.
 
 Echad un vistazo al tutorial de GitHub donde se muestran los conceptos básicos.
+
+
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-ongithub/basic-writing-and-formatting-syntax 
 
 
@@ -17,7 +19,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 #### 3.	Crear un repositorio público en GitHub con el nombre ENDES_T2_tarea.
 #### 4.	Clonar el repositorio vacío (puede tener un Readme.md si queréis, pero no es necesario).
 
-Para cada uno de los siguientes pasos, tomar una captura de pantalla de la terminal Git Bash (no hace falta todo el escritorio; solo la ventana de Git Bash, para hacer más fácil la lectura en el documento de texto).
+### Para cada uno de los siguientes pasos, tomar una captura de pantalla de la terminal Git Bash (no hace falta todo el escritorio; solo la ventana de Git Bash, para hacer más fácil la lectura en el documento de texto).
 
 #### 5.	Dentro de la carpeta del repositorio, ejecuta un comando que muestre los contenidos de la carpeta para ver que el repositorio está vacío o solo contiene el archivo README.
 #### 6.	Una captura de pantalla del resultado de ejecutar git status cuando el repositorio está "al día".
@@ -41,7 +43,7 @@ Para cada uno de los siguientes pasos, tomar una captura de pantalla de la termi
 ## Subtarea 2: Comparación de dos IDEs o editores de texto: 3 puntos
 
 > Recomendación: Es buena costumbre, además de guardar periódicamente nuestro archivo a medida que trabajamos, actualizar nuestro repositorio cada vez que se haga un cambio relevante en el código. En este caso, aun tratándose de un archivo de texto, podemos hacer varios commits que reflejen el avance de la tarea.
-> Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis hacer los que creáis oportunos. ###
+> Cuando yo acceda a vuestro repositorio, debería ver al menos tres commits en distintas fases, pero podéis hacer los que creáis oportunos.
 
 ### Elige dos IDEs o editores de texto. Realiza una comparación de estos atendiendo a:
 
@@ -96,6 +98,7 @@ Además de los complementos, también permite a los usuarios personalizar la apa
 **•	Otros aspectos**
 
 _VS Code:_ tiene una gran comunidad activa, lo que significa que siempre hay nuevas extensiones y actualizaciones disponibles. Es de código abierto y está desarrollado por Microsoft.
+
 _Sublime Text:_ no es de código abierto, es necesaria una licencia de uso, pero cuenta con una gran comunidad de desarrolladores y una amplia variedad de extensiones desarrolladas por la comunidad.
 
 
